@@ -128,4 +128,21 @@ h1 {
     margin-top: 8rem;
     margin-bottom: 3rem;
   }
+  section {
+    max-width: 35rem;
+  }
+  .right {
+    font-size: 1.7rem;
+  }
+  .between {
+    font-size: 0.9rem;
+  }
+  .again {
+    font-size: 1rem;
+  }
+  header h1 {
+    top: 15rem;
+    font-size: 3rem;
+    padding-bottom: 3rem;
+  }
 }
