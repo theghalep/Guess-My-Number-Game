@@ -120,6 +120,17 @@ h1 {
 }
 
 @media (max-width: 767px) {
+  header h1 {
+    top: 15rem;
+    font-size: 3rem;
+    padding-bottom: 3rem;
+  }
+  .between {
+    font-size: 0.9rem;
+  }
+  .again {
+    font-size: 1rem;
+  }
   main {
     flex-direction: column-reverse;
     text-align: center;
@@ -133,16 +144,5 @@ h1 {
   }
   .right {
     font-size: 1.7rem;
-  }
-  .between {
-    font-size: 0.9rem;
-  }
-  .again {
-    font-size: 1rem;
-  }
-  header h1 {
-    top: 15rem;
-    font-size: 3rem;
-    padding-bottom: 3rem;
   }
 }
